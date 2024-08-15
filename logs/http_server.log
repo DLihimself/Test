@@ -1,0 +1,660 @@
+2024-02-07 17:42:44,970 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM&wavelength=1465914.218
+2024-02-07 17:42:44,970 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 17:42:45,095 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.563751220703125, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.316909790039062, "humidity": 7.838259696960449, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 17:42:44.970764"}}
+2024-02-07 17:42:45,131 - signalLogger - DEBUG - Reveive GET request, url path: /favicon.ico
+2024-02-07 17:42:45,131 - signalLogger - DEBUG - Handle favicon.ico request [START]
+2024-02-07 17:42:45,134 - signalLogger - WARNING - Handle favicon.ico request [FAILED]: ['signalStrength', 'distance', 'fiberType', 'frequency', 'temperature', 'humidity', 'encoding'] is not provided
+2024-02-07 17:43:27,287 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM&wavelength=1465914.218
+2024-02-07 17:43:27,287 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:43:27,290 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:43:27,311 - signalLogger - DEBUG - Reveive GET request, url path: /favicon.ico
+2024-02-07 17:43:27,311 - signalLogger - DEBUG - Handle favicon.ico request [START]
+2024-02-07 17:43:27,313 - signalLogger - WARNING - Handle favicon.ico request [FAILED]: ['signalStrength', 'distance', 'fiberType', 'frequency', 'temperature', 'humidity', 'encoding'] is not provided
+2024-02-07 17:43:40,218 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:43:40,218 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:43:40,222 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:43:43,025 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:43:43,025 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:43:43,028 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:45:16,001 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM&wavelength=1465914.218
+2024-02-07 17:45:16,001 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:45:16,007 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:45:16,024 - signalLogger - DEBUG - Reveive GET request, url path: /favicon.ico
+2024-02-07 17:45:16,024 - signalLogger - DEBUG - Handle favicon.ico request [START]
+2024-02-07 17:45:16,026 - signalLogger - WARNING - Handle favicon.ico request [FAILED]: ['signalStrength', 'distance', 'fiberType', 'frequency', 'temperature', 'humidity', 'encoding'] is not provided
+2024-02-07 17:45:18,711 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:45:18,711 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:45:18,715 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:45:32,647 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:45:32,647 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:45:32,651 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:48:45,873 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:48:45,873 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:48:45,877 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:48:48,615 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:48:48,615 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:48:48,619 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:48:50,246 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:48:50,246 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:48:50,251 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:49:14,822 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:49:14,822 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:49:14,826 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 17:53:20,385 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 17:53:20,385 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 17:53:20,389 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:06:15,625 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:06:15,625 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:06:15,630 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:06:36,887 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:06:36,887 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:06:36,892 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:08:44,761 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:08:44,761 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:08:44,765 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:17:05,379 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:17:05,381 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:17:05,384 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:17:18,542 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:17:18,543 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:17:18,548 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:24:01,189 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:24:01,189 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:24:01,192 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:26:37,919 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:26:37,919 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:26:37,924 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:34:18,523 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:34:18,523 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:34:18,527 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:34:55,062 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:34:55,062 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:34:55,070 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:35:08,567 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:35:08,567 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:35:08,574 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 18:35:59,358 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 18:35:59,358 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 18:35:59,362 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:02:16,569 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:16,569 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:02:16,573 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:02:21,905 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:21,905 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:02:21,944 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 22.849388122558594, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.855865478515625, "humidity": 10.956027030944824, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:02:21.905507"}}
+2024-02-07 20:02:21,944 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:21,944 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:02:21,948 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:02:30,457 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:30,457 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:02:30,485 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.0754337310791, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.281143188476562, "humidity": 8.241365432739258, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:02:30.457575"}}
+2024-02-07 20:02:30,487 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:30,487 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:02:30,490 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:02:40,929 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:40,929 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:02:40,957 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.034587860107422, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.648704528808594, "humidity": 6.753126621246338, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:02:40.929485"}}
+2024-02-07 20:02:40,958 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:40,958 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:02:40,961 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:02:59,100 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:02:59,100 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:02:59,104 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:03:04,361 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:03:04,361 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:03:04,390 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.23578453063965, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.607093811035156, "humidity": 8.955164909362793, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:03:04.361834"}}
+2024-02-07 20:03:04,390 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:03:04,390 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:03:04,394 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:04:06,708 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:04:06,709 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:04:06,713 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:04:28,555 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:04:28,556 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:04:28,600 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 27.019241333007812, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.915054321289062, "humidity": 12.014853477478027, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:04:28.556368"}}
+2024-02-07 20:04:28,600 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:04:28,601 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:04:28,604 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:06:11,683 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:06:11,683 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:06:11,687 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:06:21,908 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:06:21,908 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:06:21,913 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:06:26,822 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:06:26,822 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:06:26,827 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:06:39,222 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:06:39,222 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:06:39,226 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:07:22,006 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:07:22,006 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:07:22,010 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:07:32,515 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:07:32,515 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:07:32,519 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:07:32,519 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:07:32,519 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:07:32,549 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.09433364868164, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.347900390625, "humidity": 8.469143867492676, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:07:32.519855"}}
+2024-02-07 20:08:07,673 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:08:07,673 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:08:07,677 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:08:20,107 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:08:20,108 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:08:20,134 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.191097259521484, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.284423828125, "humidity": 6.7981438636779785, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:08:20.108337"}}
+2024-02-07 20:08:20,134 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:08:20,134 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:08:20,138 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:08:33,831 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:08:33,831 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:08:33,860 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 20.571470260620117, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.289772033691406, "humidity": 6.42006778717041, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:08:33.831681"}}
+2024-02-07 20:08:33,860 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:08:33,860 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:08:33,864 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:10:05,668 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:10:05,668 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:10:05,672 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:10:56,762 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:10:56,762 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:10:56,766 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:11:18,075 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:11:18,075 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:11:18,081 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:12:29,091 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:12:29,092 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:12:29,099 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:14:50,459 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:14:50,459 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:14:50,462 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:14:55,962 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:14:55,964 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:14:55,996 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.00164794921875, "fiberType": "SMF", "frequency": 204.650447, "temperature": 22.024749755859375, "humidity": 5.736837387084961, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:14:55.964238"}}
+2024-02-07 20:17:26,795 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:17:26,795 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:17:26,800 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:19:06,792 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:19:06,792 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:19:06,818 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.785812377929688, "fiberType": "SMF", "frequency": 204.650447, "temperature": 23.554100036621094, "humidity": 6.015398025512695, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:19:06.792887"}}
+2024-02-07 20:20:59,548 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:20:59,548 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:20:59,553 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:21:09,037 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:21:09,037 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:21:09,068 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.618375778198242, "fiberType": "SMF", "frequency": 204.650447, "temperature": 22.687217712402344, "humidity": 8.564909934997559, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:21:09.037980"}}
+2024-02-07 20:26:38,444 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:26:38,444 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:26:38,448 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:26:47,582 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:26:47,582 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:26:47,615 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.916807174682617, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.346694946289062, "humidity": 5.887526512145996, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:26:47.582099"}}
+2024-02-07 20:27:28,168 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:27:28,168 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:27:28,172 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:27:35,356 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:27:35,356 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:27:35,391 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.083965301513672, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.273414611816406, "humidity": 6.433058738708496, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:27:35.356801"}}
+2024-02-07 20:28:36,260 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:28:36,260 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:28:36,263 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:28:41,389 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:28:41,389 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:28:41,419 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.59325408935547, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.059097290039062, "humidity": 6.200341701507568, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:28:41.389379"}}
+2024-02-07 20:29:44,764 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:29:44,764 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:29:44,768 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:29:52,638 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:29:52,638 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:29:52,667 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.05581283569336, "fiberType": "SMF", "frequency": 204.650447, "temperature": 26.054641723632812, "humidity": 8.367631912231445, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:29:52.638177"}}
+2024-02-07 20:32:33,220 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:32:33,220 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:32:33,223 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:32:44,796 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:32:44,796 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:32:44,825 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 21.666555404663086, "fiberType": "SMF", "frequency": 204.650447, "temperature": 26.172439575195312, "humidity": 10.65427017211914, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:32:44.796256"}}
+2024-02-07 20:34:32,821 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:34:32,821 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:34:32,849 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.070938110351562, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.788734436035156, "humidity": 9.687591552734375, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:34:32.821287"}}
+2024-02-07 20:34:32,873 - signalLogger - DEBUG - Reveive GET request, url path: /favicon.ico
+2024-02-07 20:34:32,873 - signalLogger - DEBUG - Handle favicon.ico request [START]
+2024-02-07 20:34:32,874 - signalLogger - WARNING - Handle favicon.ico request [FAILED]: ['signalStrength', 'distance', 'fiberType', 'frequency', 'temperature', 'humidity', 'encoding'] is not provided
+2024-02-07 20:35:39,169 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:35:39,169 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:35:39,174 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:35:45,172 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:35:45,172 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:35:45,207 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.571273803710938, "fiberType": "SMF", "frequency": 204.650447, "temperature": 26.334030151367188, "humidity": 8.696066856384277, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:35:45.172838"}}
+2024-02-07 20:37:48,785 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:37:48,786 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:37:48,790 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:37:55,525 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:37:55,525 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:37:55,558 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.132171630859375, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.247650146484375, "humidity": 9.747881889343262, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:37:55.525818"}}
+2024-02-07 20:38:30,823 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:38:30,823 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:38:30,828 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:38:32,608 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:38:32,609 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:38:32,639 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.586530685424805, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.593917846679688, "humidity": 13.178411483764648, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:38:32.609941"}}
+2024-02-07 20:39:17,947 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:39:17,947 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:39:17,951 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:39:19,826 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:39:19,826 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:39:19,859 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.771862030029297, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.017852783203125, "humidity": 6.510880470275879, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:39:19.826315"}}
+2024-02-07 20:40:59,842 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:40:59,842 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:40:59,846 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:41:01,505 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:01,505 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:41:01,536 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.543502807617188, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.830406188964844, "humidity": 6.056938171386719, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:41:01.505866"}}
+2024-02-07 20:41:28,066 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:28,066 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:41:28,071 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:41:28,920 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:28,921 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:41:28,952 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.39930534362793, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.711441040039062, "humidity": 6.500691890716553, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:41:28.921257"}}
+2024-02-07 20:41:30,507 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:30,507 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:41:30,511 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:41:31,887 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:31,887 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:41:31,917 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.768497467041016, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.279510498046875, "humidity": 9.096510887145996, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:41:31.887433"}}
+2024-02-07 20:41:34,296 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:34,296 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:41:34,300 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:41:35,464 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:35,465 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:41:35,494 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.06646728515625, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.340057373046875, "humidity": 10.618510246276855, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:41:35.465536"}}
+2024-02-07 20:41:59,441 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:41:59,441 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:41:59,446 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:42:00,440 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:42:00,441 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:42:00,446 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:42:23,995 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:42:23,995 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:42:23,999 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:42:26,042 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:42:26,042 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:42:26,068 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.25347137451172, "fiberType": "SMF", "frequency": 204.650447, "temperature": 23.656330108642578, "humidity": 7.079444885253906, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:42:26.042074"}}
+2024-02-07 20:50:10,451 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:50:10,451 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:50:10,454 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:50:13,648 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:50:13,648 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:50:13,678 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.804027557373047, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.55218505859375, "humidity": 5.7626953125, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:50:13.648104"}}
+2024-02-07 20:50:38,313 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:50:38,313 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:50:38,316 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:50:39,055 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:50:39,055 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:50:39,085 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.90593719482422, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.44623565673828, "humidity": 8.40558910369873, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:50:39.055704"}}
+2024-02-07 20:51:23,698 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:23,699 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:51:23,702 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:51:25,239 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:25,240 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:51:25,273 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.811124801635742, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.618995666503906, "humidity": 6.242984771728516, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:51:25.240972"}}
+2024-02-07 20:51:37,971 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:37,971 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:51:37,974 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:51:40,273 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:40,273 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:51:40,277 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:51:42,244 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:42,244 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:51:42,249 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:51:45,786 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:45,786 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:51:45,814 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.281259536743164, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.446197509765625, "humidity": 9.751581192016602, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:51:45.786172"}}
+2024-02-07 20:51:54,938 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:54,938 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:51:54,967 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.743160247802734, "fiberType": "SMF", "frequency": 204.650447, "temperature": 21.073421478271484, "humidity": 8.486431121826172, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:51:54.938882"}}
+2024-02-07 20:51:59,079 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:59,079 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:51:59,107 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.160907745361328, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.17076873779297, "humidity": 6.951519966125488, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:51:59.079642"}}
+2024-02-07 20:51:59,814 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:51:59,816 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:51:59,843 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.670509338378906, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.63994598388672, "humidity": 5.211541652679443, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:51:59.816063"}}
+2024-02-07 20:52:00,231 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:00,231 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:00,259 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.194053649902344, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.845726013183594, "humidity": 8.279373168945312, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:00.231085"}}
+2024-02-07 20:52:00,448 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:00,448 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:00,483 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.103782653808594, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.092369079589844, "humidity": 6.377834796905518, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:00.448750"}}
+2024-02-07 20:52:00,631 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:00,631 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:00,665 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.973785400390625, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.929855346679688, "humidity": 5.774694442749023, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:00.631676"}}
+2024-02-07 20:52:00,823 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:00,823 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:00,852 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 21.197620391845703, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.55809783935547, "humidity": 6.432977199554443, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:00.823474"}}
+2024-02-07 20:52:01,312 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:01,312 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:01,340 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.72693634033203, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.019371032714844, "humidity": 7.228475570678711, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:01.312112"}}
+2024-02-07 20:52:01,735 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:01,735 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:01,769 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.765155792236328, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.766464233398438, "humidity": 9.510202407836914, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:01.735315"}}
+2024-02-07 20:52:02,318 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:02,318 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:02,346 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.231910705566406, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.670623779296875, "humidity": 5.628128528594971, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:02.318869"}}
+2024-02-07 20:52:02,798 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:02,798 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:02,826 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 21.193681716918945, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.33403778076172, "humidity": 8.25271987915039, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:02.799615"}}
+2024-02-07 20:52:03,214 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:03,214 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:03,245 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 23.192140579223633, "fiberType": "SMF", "frequency": 204.650447, "temperature": 26.206375122070312, "humidity": 8.498753547668457, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:03.214715"}}
+2024-02-07 20:52:03,622 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:03,622 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:03,650 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.456897735595703, "fiberType": "SMF", "frequency": 204.650447, "temperature": 26.175254821777344, "humidity": 9.383991241455078, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:03.622935"}}
+2024-02-07 20:52:04,415 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:52:04,415 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:52:04,444 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.700611114501953, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.92169189453125, "humidity": 8.479865074157715, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:52:04.415760"}}
+2024-02-07 20:53:11,822 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:11,822 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:11,826 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:12,888 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:12,888 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:53:12,915 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.542787551879883, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.10181427001953, "humidity": 8.932156562805176, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:53:12.888175"}}
+2024-02-07 20:53:15,102 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:15,103 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:53:15,130 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.882308959960938, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.982696533203125, "humidity": 7.9074578285217285, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:53:15.103811"}}
+2024-02-07 20:53:17,351 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:17,351 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:53:17,386 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.974599838256836, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.70337677001953, "humidity": 9.508359909057617, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:53:17.351091"}}
+2024-02-07 20:53:19,547 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:19,547 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:19,552 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:21,991 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:21,991 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:21,995 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:22,927 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:22,927 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:22,931 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:23,734 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:23,735 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:23,738 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:24,959 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:24,959 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:24,964 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:27,215 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:27,215 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:27,218 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:28,214 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:28,215 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:28,218 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:33,862 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:33,862 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:33,867 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:53:47,328 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:53:47,328 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:53:47,332 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:54:05,309 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:54:05,309 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:54:05,312 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:54:05,340 - signalLogger - DEBUG - Reveive GET request, url path: /favicon.ico
+2024-02-07 20:54:05,340 - signalLogger - DEBUG - Handle favicon.ico request [START]
+2024-02-07 20:54:05,342 - signalLogger - WARNING - Handle favicon.ico request [FAILED]: ['signalStrength', 'distance', 'fiberType', 'frequency', 'temperature', 'humidity', 'encoding'] is not provided
+2024-02-07 20:55:42,114 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:55:42,114 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:55:42,118 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:55:43,120 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:55:43,120 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 20:55:43,155 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.84539031982422, "fiberType": "SMF", "frequency": 204.650447, "temperature": 22.55657958984375, "humidity": 5.85392427444458, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 20:55:43.120203"}}
+2024-02-07 20:55:43,967 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:55:43,967 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:55:43,971 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:55:56,860 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:55:56,860 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:55:56,864 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:55:56,876 - signalLogger - DEBUG - Reveive GET request, url path: /favicon.ico
+2024-02-07 20:55:56,876 - signalLogger - DEBUG - Handle favicon.ico request [START]
+2024-02-07 20:55:56,878 - signalLogger - WARNING - Handle favicon.ico request [FAILED]: ['signalStrength', 'distance', 'fiberType', 'frequency', 'temperature', 'humidity', 'encoding'] is not provided
+2024-02-07 20:58:16,009 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 20:58:16,009 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 20:58:16,012 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 20:58:16,026 - signalLogger - DEBUG - Reveive GET request, url path: /favicon.ico
+2024-02-07 20:58:16,026 - signalLogger - DEBUG - Handle favicon.ico request [START]
+2024-02-07 20:58:16,027 - signalLogger - WARNING - Handle favicon.ico request [FAILED]: ['signalStrength', 'distance', 'fiberType', 'frequency', 'temperature', 'humidity', 'encoding'] is not provided
+2024-02-07 21:01:27,932 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:01:27,932 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:01:27,936 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 21:03:11,761 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:03:11,761 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:11,766 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 21:03:13,425 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:03:13,425 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 21:03:13,458 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.495410919189453, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.832725524902344, "humidity": 6.8858442306518555, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 21:03:13.425073"}}
+2024-02-07 21:03:14,686 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:14,686 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:14,690 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:17,262 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:17,262 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:17,266 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:19,127 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:19,127 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:19,130 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:25,027 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:25,027 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:25,030 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:27,119 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:27,119 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:27,124 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:27,855 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:27,855 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:27,858 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:28,477 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:28,478 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:28,482 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:29,502 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:29,503 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:29,506 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:30,254 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:30,254 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:30,257 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:31,255 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.495411&frequency=204.650447&temperature=25.832726&humidity=6.885844&fiberType=SMF&encoding=DM
+2024-02-07 21:03:31,255 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:31,259 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:32,551 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:03:32,551 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:32,555 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 21:03:33,838 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:03:33,838 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:33,842 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 21:03:35,629 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:03:35,631 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 21:03:35,668 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.154081344604492, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.708091735839844, "humidity": 9.676538467407227, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 21:03:35.631266"}}
+2024-02-07 21:03:36,735 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=18.154081&frequency=204.650447&temperature=25.708092&humidity=9.676538&fiberType=SMF&encoding=DM
+2024-02-07 21:03:36,735 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:36,738 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:03:46,073 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:03:46,073 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:03:46,078 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 21:04:14,517 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:04:14,517 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:04:14,521 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 21:04:20,967 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 21:04:20,967 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 21:04:20,996 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 22.212093353271484, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.8104248046875, "humidity": 7.4890241622924805, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 21:04:20.967779"}}
+2024-02-07 21:04:32,903 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=22.212093&frequency=204.650447&temperature=24.810425&humidity=7.489024&fiberType=SMF&encoding=DM
+2024-02-07 21:04:32,903 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:04:32,907 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 21:28:43,360 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=EM
+2024-02-07 21:28:43,360 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 21:28:43,364 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:23:05,928 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:23:05,928 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:23:05,933 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:23:40,343 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:23:40,343 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:23:40,347 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:24:08,657 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:24:08,657 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:24:08,661 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:24:55,341 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:24:55,341 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:24:55,346 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:25:49,207 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:25:49,207 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:25:49,211 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:26:27,299 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:26:27,299 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:26:27,303 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:26:39,414 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:26:39,414 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:26:39,417 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:40:54,581 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:40:54,581 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:40:54,586 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:41:26,889 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:41:26,890 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:41:26,893 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:55:38,089 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:55:38,089 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:55:38,093 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:55:50,286 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:55:50,286 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:55:50,291 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:58:24,846 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:58:24,847 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:58:24,851 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 22:59:56,796 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=1.000000&distance=10.000000&frequency=10.000000&temperature=10.000000&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 22:59:56,796 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 22:59:56,800 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:01:03,902 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:01:03,902 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:01:03,906 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:01:06,834 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:01:06,834 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 23:01:06,861 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.329544067382812, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.419036865234375, "humidity": 6.538286209106445, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 23:01:06.834569"}}
+2024-02-07 23:01:12,058 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=17.329544&frequency=204.650447&temperature=25.419037&humidity=6.538286&fiberType=SMF&encoding=DM
+2024-02-07 23:01:12,058 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:01:12,062 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 23:05:31,213 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:05:31,213 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:05:31,217 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:14:06,004 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:14:06,004 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:14:06,010 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:14:13,851 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:14:13,851 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:14:13,857 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:14:22,411 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:14:22,411 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:14:22,416 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:14:31,227 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:14:31,227 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:14:31,231 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:14:32,321 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:14:32,321 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 23:14:32,351 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.370532989501953, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.987335205078125, "humidity": 7.233904838562012, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 23:14:32.321719"}}
+2024-02-07 23:14:45,034 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:14:45,034 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:14:45,037 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:14:45,873 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:14:45,873 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 23:14:45,904 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.347396850585938, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.370025634765625, "humidity": 6.116982460021973, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 23:14:45.873796"}}
+2024-02-07 23:14:46,873 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.347397&frequency=204.650447&temperature=25.370026&humidity=6.116982&fiberType=SMF&encoding=DM
+2024-02-07 23:14:46,874 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:14:46,878 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 23:15:43,996 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:15:43,996 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:15:44,001 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:25:34,315 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:25:34,315 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:25:34,319 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:25:35,761 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:25:35,761 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 23:25:35,791 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.660816192626953, "fiberType": "SMF", "frequency": 204.650447, "temperature": 26.501190185546875, "humidity": 9.041051864624023, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 23:25:35.761948"}}
+2024-02-07 23:25:38,465 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=17.660816&frequency=204.650447&temperature=26.501190&humidity=9.041052&fiberType=SMF&encoding=DM
+2024-02-07 23:25:38,465 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:25:38,470 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 23:27:09,013 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:27:09,013 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:27:09,018 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:27:10,386 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:27:10,386 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 23:27:10,418 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.841083526611328, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.789093017578125, "humidity": 6.209381580352783, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 23:27:10.386483"}}
+2024-02-07 23:27:11,099 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=16.841084&frequency=204.650447&temperature=24.789093&humidity=6.209382&fiberType=SMF&encoding=DM
+2024-02-07 23:27:11,099 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:27:11,104 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-07 23:27:27,525 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:27:27,525 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:27:27,531 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-07 23:27:29,082 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-07 23:27:29,082 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-07 23:27:29,110 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 19.904926300048828, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.554641723632812, "humidity": 8.294726371765137, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-07 23:27:29.082387"}}
+2024-02-07 23:27:30,577 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=19.904926&frequency=204.650447&temperature=25.554642&humidity=8.294726&fiberType=SMF&encoding=DM
+2024-02-07 23:27:30,578 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-07 23:27:30,582 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-13 18:56:39,270 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-13 18:56:39,270 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-13 18:56:39,320 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-13 18:56:52,435 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-13 18:56:52,436 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-13 18:56:52,485 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.973983764648438, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.21239471435547, "humidity": 7.521707534790039, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-13 18:56:52.436184"}}
+2024-02-13 18:56:59,007 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=18.973984&frequency=204.650447&temperature=25.212395&humidity=7.521708&fiberType=SMF&encoding=DM
+2024-02-13 18:56:59,007 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-13 18:56:59,011 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-13 19:05:38,620 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-13 19:05:38,620 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-13 19:05:38,623 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-13 19:05:48,600 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-13 19:05:48,600 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-13 19:05:48,632 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 16.899703979492188, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.91344451904297, "humidity": 6.751175880432129, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-13 19:05:48.600691"}}
+2024-02-13 19:05:59,695 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=16.899704&frequency=204.650447&temperature=24.913445&humidity=6.751176&fiberType=SMF&encoding=DM
+2024-02-13 19:05:59,695 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-13 19:05:59,699 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-02-13 19:16:04,707 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-13 19:16:04,708 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-13 19:16:04,740 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-02-13 19:16:29,249 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-02-13 19:16:29,249 - signalLogger - DEBUG - Handle repair request [START]
+2024-02-13 19:16:29,309 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.958633422851562, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.23894500732422, "humidity": 7.921257019042969, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-02-13 19:16:29.250642"}}
+2024-02-13 19:17:33,376 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=17.958633&frequency=204.650447&temperature=24.238945&humidity=7.921257&fiberType=SMF&encoding=DM
+2024-02-13 19:17:33,376 - signalLogger - DEBUG - Handle detect request [START]
+2024-02-13 19:17:33,384 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-06-27 18:55:07,348 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 18:55:07,349 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 18:55:07,410 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-06-27 18:55:15,178 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 18:55:15,178 - signalLogger - DEBUG - Handle repair request [START]
+2024-06-27 18:55:15,238 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.889829635620117, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.890106201171875, "humidity": 8.27531909942627, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-06-27 18:55:15.178965"}}
+2024-06-27 18:55:54,482 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=17.889830&frequency=204.650447&temperature=24.890106&humidity=8.275319&fiberType=SMF&encoding=DM
+2024-06-27 18:55:54,482 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 18:55:54,489 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-06-27 20:56:30,470 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 20:56:30,471 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 20:56:30,481 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-06-27 20:57:33,999 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 20:57:34,000 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 20:57:34,011 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-06-27 20:57:43,738 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 20:57:43,738 - signalLogger - DEBUG - Handle repair request [START]
+2024-06-27 20:57:43,802 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.215553283691406, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.662811279296875, "humidity": 8.566569328308105, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-06-27 20:57:43.738635"}}
+2024-06-27 20:57:58,621 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=18.215553&frequency=204.650447&temperature=24.662811&humidity=8.566569&fiberType=SMF&encoding=DM
+2024-06-27 20:57:58,621 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 20:57:58,631 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-06-27 21:02:03,131 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 21:02:03,131 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 21:02:03,140 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-06-27 21:02:53,155 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 21:02:53,156 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 21:02:53,164 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-06-27 21:24:30,033 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 21:24:30,033 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 21:24:30,038 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-06-27 21:24:35,299 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 21:24:35,299 - signalLogger - DEBUG - Handle repair request [START]
+2024-06-27 21:24:35,326 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 18.63066864013672, "fiberType": "SMF", "frequency": 204.650447, "temperature": 25.547836303710938, "humidity": 9.120892524719238, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-06-27 21:24:35.300825"}}
+2024-06-27 21:24:49,149 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=18.630669&frequency=204.650447&temperature=25.547836&humidity=9.120893&fiberType=SMF&encoding=DM
+2024-06-27 21:24:49,149 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 21:24:49,155 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}
+2024-06-27 22:17:04,057 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 22:17:04,057 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 22:17:04,083 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": true}
+2024-06-27 22:18:02,290 - signalLogger - DEBUG - Reveive GET request, url path: /repair?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM
+2024-06-27 22:18:02,290 - signalLogger - DEBUG - Handle repair request [START]
+2024-06-27 22:18:02,351 - signalLogger - DEBUG - Handle repair request [DONE], response: {"is_fault": false, "data_impute": {"signalStrength": 0.936055, "distance": 17.21129035949707, "fiberType": "SMF", "frequency": 204.650447, "temperature": 24.55695343017578, "humidity": 6.881694316864014, "encoding": "DM", "wavelength": 1465914.2181106498, "createDtm": "2024-06-27 22:18:02.291002"}}
+2024-06-27 22:19:39,577 - signalLogger - DEBUG - Reveive GET request, url path: /detect?signalStrength=0.936055&distance=17.211290&frequency=204.650447&temperature=24.556953&humidity=6.881694&fiberType=SMF&encoding=DM
+2024-06-27 22:19:39,577 - signalLogger - DEBUG - Handle detect request [START]
+2024-06-27 22:19:39,589 - signalLogger - DEBUG - Handle detect request [DONE], response: {"is_fault": false}

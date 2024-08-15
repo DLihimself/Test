@@ -17,18 +17,11 @@ A system to simulate signal data and train the detect module and repair module
 python http_server.py
 `
 
-系统支持启动http服务器
-### 1. 训练模型
-* 请求地址: http://ip:port/train
-* 请求方法: GET
-* 请求参数: 无
-* 返回: 200 （无其他数据）
 
-
-### 2. 检测信号是否故障
+### . 检测信号是否故障
 * 请求地址: http://ip:port/detect
 * 请求方法: GET
-* 请求url的例子：http://127.0.0.1:8000/detect?signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM&wavelength=1465914.218
+signalStrength=0.936055&distance=103.333769&frequency=204.650447&temperature=-9.186339&humidity=98.182911&fiberType=SMF&encoding=DM&wavelength=1465914.218
 
 * 请求参数: 
 <table>
